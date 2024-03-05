@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+BUILD_DIR=$1
+
+echo "PDFTk cli"
+exit 0
